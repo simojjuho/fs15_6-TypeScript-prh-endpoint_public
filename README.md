@@ -1,4 +1,6 @@
 # Company portal from PRH (prh.fi)
+made by Juho Simojoki
+Project template and assignment from Integrify Finland Full-Stack Academy (Microsoft stack: TypeScript, React, C# etc.)
 
 The task is to use TypeScript to fetch data from a 3rd party service
 
