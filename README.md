@@ -2,7 +2,24 @@
 made by Juho Simojoki
 Project template and assignment from Integrify Finland Full-Stack Academy (Microsoft stack: TypeScript, React, C# etc.)
 
-The task is to use TypeScript to fetch data from a 3rd party service
+The task is to use TypeScript to fetch data from a 3rd party service and present it in a correct form.
+
+## Project tree
+
+```
+.
+├── output.txt
+├── package.json
+├── package-lock.json
+├── README.md
+├── src
+│   ├── index.ts
+│   ├── services.ts
+│   └── types.ts
+└── tsconfig.json
+```
+In output file you will file printed the output when used the predefined parameters.
+
 
 ## Requirements
 
