@@ -1,0 +1,1061 @@
+{
+  businessId: '3347816-6',
+  name: 'IT-Space Oy',
+  registrationDate: '2023-02-26',
+  companyForm: 'OY',
+  detailsUri: null,
+  liquidations: [],
+  names: [
+    {
+      order: 0,
+      version: 1,
+      name: 'IT-Space Oy',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      source: 1
+    }
+  ],
+  auxiliaryNames: [],
+  addresses: [
+    {
+      careOf: null,
+      street: 'Savon kylätie 267',
+      postCode: '35300',
+      type: 1,
+      version: 1,
+      city: 'ORIVESI',
+      country: null,
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      careOf: null,
+      street: 'Savon kylätie 267',
+      postCode: '35300',
+      type: 2,
+      version: 1,
+      city: 'ORIVESI',
+      country: null,
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    }
+  ],
+  companyForms: [
+    {
+      version: 1,
+      name: 'Osakeyhtiö',
+      type: 'OY',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'FI',
+      source: 1
+    },
+    {
+      version: 1,
+      name: 'Aktiebolag',
+      type: 'AB',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'SE',
+      source: 1
+    },
+    {
+      version: 1,
+      name: 'Limited company',
+      type: null,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'EN',
+      source: 1
+    }
+  ],
+  businessLines: [
+    {
+      order: 0,
+      version: 1,
+      code: '63110',
+      name: 'Data processing, hosting and related activities',
+      registrationDate: '2023-02-21',
+      endDate: null,
+      language: 'EN',
+      source: 2
+    },
+    {
+      order: 0,
+      version: 1,
+      code: '63110',
+      name: 'Tietojenkäsittely, palvelintilan vuokraus ja niihin liittyvät palvelut',
+      registrationDate: '2023-02-21',
+      endDate: null,
+      language: 'FI',
+      source: 2
+    },
+    {
+      order: 0,
+      version: 1,
+      code: '63110',
+      name: 'Databehandling, hosting o.d.',
+      registrationDate: '2023-02-21',
+      endDate: null,
+      language: 'SE',
+      source: 2
+    }
+  ],
+  languages: [
+    {
+      version: 1,
+      name: 'Finnish',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      version: 1,
+      name: 'Suomi',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      name: 'Finska',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    }
+  ],
+  registedOffices: [
+    {
+      order: 0,
+      version: 1,
+      name: 'ORIVESI',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      order: 0,
+      version: 1,
+      name: 'ORIVESI',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      order: 0,
+      version: 1,
+      name: 'ORIVESI',
+      registrationDate: '2023-03-03',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    }
+  ],
+  contactDetails: [
+    {
+      version: 1,
+      value: '+358440207002',
+      type: 'Puhelin',
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '+358440207002',
+      type: 'Telefon',
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '+358440207002',
+      type: 'Telephone',
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '+358440207002',
+      type: 'Matkapuhelin',
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '+358440207002',
+      type: 'Mobiltelefon',
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '+358440207002',
+      type: 'Mobile phone',
+      registrationDate: '2023-02-26',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    }
+  ],
+  registeredEntries: [
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      statusDate: '2023-03-07',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      statusDate: '2023-03-07',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      statusDate: '2023-03-07',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2023-02-26',
+      endDate: null,
+      statusDate: '2023-03-06',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2023-02-26',
+      endDate: null,
+      statusDate: '2023-03-06',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2023-02-26',
+      endDate: null,
+      statusDate: '2023-03-06',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2023-02-21',
+      endDate: null,
+      statusDate: '2023-03-06',
+      language: 'FI',
+      description: 'Liiketoiminnasta arvonlisäverovelvollinen'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2023-02-21',
+      endDate: null,
+      statusDate: '2023-03-06',
+      language: 'SE',
+      description: 'Momsskyldig för rörelseverksamhet'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2023-02-21',
+      endDate: null,
+      statusDate: '2023-03-06',
+      language: 'EN',
+      description: 'VAT-liable for business activity'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      statusDate: '2023-03-03',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      statusDate: '2023-03-03',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2023-03-03',
+      endDate: null,
+      statusDate: '2023-03-03',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2023-02-26',
+      endDate: '2023-03-02',
+      statusDate: '2023-02-26',
+      language: 'FI',
+      description: 'Rekisteröimätön'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2023-02-26',
+      endDate: '2023-03-02',
+      statusDate: '2023-02-26',
+      language: 'SE',
+      description: 'Oregistrerad'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2023-02-26',
+      endDate: '2023-03-02',
+      statusDate: '2023-02-26',
+      language: 'EN',
+      description: 'Unregistered'
+    }
+  ],
+  businessIdChanges: []
+}
+{
+  businessId: '3312530-1',
+  name: 'SM Trading Oy',
+  registrationDate: '2022-09-16',
+  companyForm: 'OY',
+  detailsUri: null,
+  liquidations: [],
+  names: [
+    {
+      order: 0,
+      version: 1,
+      name: 'SM Trading Oy',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      source: 1
+    }
+  ],
+  auxiliaryNames: [],
+  addresses: [
+    {
+      careOf: null,
+      street: 'Ruovedenkuja 1',
+      postCode: '35300',
+      type: 1,
+      version: 1,
+      city: 'ORIVESI',
+      country: null,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      careOf: null,
+      street: 'Ruovedenkuja 1',
+      postCode: '35300',
+      type: 2,
+      version: 1,
+      city: 'ORIVESI',
+      country: null,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    }
+  ],
+  companyForms: [
+    {
+      version: 1,
+      name: 'Osakeyhtiö',
+      type: 'OY',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'FI',
+      source: 1
+    },
+    {
+      version: 1,
+      name: 'Aktiebolag',
+      type: 'AB',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'SE',
+      source: 1
+    },
+    {
+      version: 1,
+      name: 'Limited company',
+      type: null,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'EN',
+      source: 1
+    }
+  ],
+  businessLines: [
+    {
+      order: 0,
+      version: 1,
+      code: '68100',
+      name: 'Buying and selling of own real estate',
+      registrationDate: '2022-09-16',
+      endDate: null,
+      language: 'EN',
+      source: 2
+    },
+    {
+      order: 0,
+      version: 1,
+      code: '68100',
+      name: 'Omien kiinteistöjen kauppa',
+      registrationDate: '2022-09-16',
+      endDate: null,
+      language: 'FI',
+      source: 2
+    },
+    {
+      order: 0,
+      version: 1,
+      code: '68100',
+      name: 'Handel med egna fastigheter',
+      registrationDate: '2022-09-16',
+      endDate: null,
+      language: 'SE',
+      source: 2
+    }
+  ],
+  languages: [
+    {
+      version: 1,
+      name: 'Finnish',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      version: 1,
+      name: 'Suomi',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      name: 'Finska',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    }
+  ],
+  registedOffices: [
+    {
+      order: 0,
+      version: 1,
+      name: 'ORIVESI',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      order: 0,
+      version: 1,
+      name: 'ORIVESI',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      order: 0,
+      version: 1,
+      name: 'ORIVESI',
+      registrationDate: '2022-09-19',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    }
+  ],
+  contactDetails: [],
+  registeredEntries: [
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      statusDate: '2022-09-21',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      statusDate: '2022-09-21',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      statusDate: '2022-09-21',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      statusDate: '2022-09-20',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      statusDate: '2022-09-20',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      statusDate: '2022-09-20',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      statusDate: '2022-09-20',
+      language: 'FI',
+      description: 'Liiketoiminnasta arvonlisäverovelvollinen'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      statusDate: '2022-09-20',
+      language: 'SE',
+      description: 'Momsskyldig för rörelseverksamhet'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2022-09-16',
+      endDate: null,
+      statusDate: '2022-09-20',
+      language: 'EN',
+      description: 'VAT-liable for business activity'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      statusDate: '2022-09-19',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      statusDate: '2022-09-19',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2022-09-19',
+      endDate: null,
+      statusDate: '2022-09-19',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2022-09-16',
+      endDate: '2022-09-18',
+      statusDate: '2022-09-16',
+      language: 'FI',
+      description: 'Rekisteröimätön'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2022-09-16',
+      endDate: '2022-09-18',
+      statusDate: '2022-09-16',
+      language: 'SE',
+      description: 'Oregistrerad'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2022-09-16',
+      endDate: '2022-09-18',
+      statusDate: '2022-09-16',
+      language: 'EN',
+      description: 'Unregistered'
+    }
+  ],
+  businessIdChanges: []
+}
+{
+  businessId: '3293868-5',
+  name: 'HR Tieto Oy',
+  registrationDate: '2022-06-10',
+  companyForm: 'OY',
+  detailsUri: null,
+  liquidations: [],
+  names: [
+    {
+      order: 0,
+      version: 1,
+      name: 'HR Tieto Oy',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      source: 1
+    }
+  ],
+  auxiliaryNames: [],
+  addresses: [
+    {
+      careOf: null,
+      street: 'Tikkaajantie 3',
+      postCode: '35300',
+      type: 1,
+      version: 1,
+      city: 'ORIVESI',
+      country: null,
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      careOf: null,
+      street: 'Tikkaajantie 3',
+      postCode: '35300',
+      type: 2,
+      version: 1,
+      city: 'ORIVESI',
+      country: null,
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    }
+  ],
+  companyForms: [
+    {
+      version: 1,
+      name: 'Osakeyhtiö',
+      type: 'OY',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'FI',
+      source: 1
+    },
+    {
+      version: 1,
+      name: 'Aktiebolag',
+      type: 'AB',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'SE',
+      source: 1
+    },
+    {
+      version: 1,
+      name: 'Limited company',
+      type: null,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'EN',
+      source: 1
+    }
+  ],
+  businessLines: [
+    {
+      order: 0,
+      version: 1,
+      code: '62010',
+      name: 'Computer programming activities',
+      registrationDate: '2022-06-01',
+      endDate: null,
+      language: 'EN',
+      source: 2
+    },
+    {
+      order: 0,
+      version: 1,
+      code: '62010',
+      name: 'Ohjelmistojen suunnittelu ja valmistus',
+      registrationDate: '2022-06-01',
+      endDate: null,
+      language: 'FI',
+      source: 2
+    },
+    {
+      order: 0,
+      version: 1,
+      code: '62010',
+      name: 'Dataprogrammering',
+      registrationDate: '2022-06-01',
+      endDate: null,
+      language: 'SE',
+      source: 2
+    }
+  ],
+  languages: [
+    {
+      version: 1,
+      name: 'Finnish',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      version: 1,
+      name: 'Suomi',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      name: 'Finska',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    }
+  ],
+  registedOffices: [
+    {
+      order: 0,
+      version: 1,
+      name: 'TAMPERE',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      order: 0,
+      version: 1,
+      name: 'TAMPERE',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      order: 0,
+      version: 1,
+      name: 'TAMMERFORS',
+      registrationDate: '2022-08-16',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    }
+  ],
+  contactDetails: [
+    {
+      version: 1,
+      value: '0505415811',
+      type: 'Puhelin',
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '0505415811',
+      type: 'Telefon',
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    },
+    {
+      version: 1,
+      value: '0505415811',
+      type: 'Telephone',
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    },
+    {
+      version: 1,
+      value: 'ww.hrtieto.fi',
+      type: 'Kotisivun www-osoite',
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'FI',
+      source: 0
+    },
+    {
+      version: 1,
+      value: 'ww.hrtieto.fi',
+      type: 'www-adress',
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'SE',
+      source: 0
+    },
+    {
+      version: 1,
+      value: 'ww.hrtieto.fi',
+      type: 'Website address',
+      registrationDate: '2022-06-10',
+      endDate: null,
+      language: 'EN',
+      source: 0
+    }
+  ],
+  registeredEntries: [
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      statusDate: '2023-04-04',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      statusDate: '2023-04-04',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 1,
+      register: 4,
+      status: 1,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      statusDate: '2023-04-04',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2022-06-10',
+      endDate: null,
+      statusDate: '2022-08-18',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2022-06-10',
+      endDate: null,
+      statusDate: '2022-08-18',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 1,
+      register: 5,
+      status: 1,
+      registrationDate: '2022-06-10',
+      endDate: null,
+      statusDate: '2022-08-18',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2022-06-01',
+      endDate: null,
+      statusDate: '2022-08-18',
+      language: 'FI',
+      description: 'Liiketoiminnasta arvonlisäverovelvollinen'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2022-06-01',
+      endDate: null,
+      statusDate: '2022-08-18',
+      language: 'SE',
+      description: 'Momsskyldig för rörelseverksamhet'
+    },
+    {
+      authority: 1,
+      register: 6,
+      status: 1,
+      registrationDate: '2022-06-01',
+      endDate: null,
+      statusDate: '2022-08-18',
+      language: 'EN',
+      description: 'VAT-liable for business activity'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      statusDate: '2022-08-16',
+      language: 'FI',
+      description: 'Rekisterissä'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      statusDate: '2022-08-16',
+      language: 'SE',
+      description: 'Registrerad'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 1,
+      registrationDate: '2022-08-16',
+      endDate: null,
+      statusDate: '2022-08-16',
+      language: 'EN',
+      description: 'Registered'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2022-06-10',
+      endDate: '2022-08-15',
+      statusDate: '2022-06-13',
+      language: 'FI',
+      description: 'Rekisteröimätön'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2022-06-10',
+      endDate: '2022-08-15',
+      statusDate: '2022-06-13',
+      language: 'SE',
+      description: 'Oregistrerad'
+    },
+    {
+      authority: 2,
+      register: 1,
+      status: 2,
+      registrationDate: '2022-06-10',
+      endDate: '2022-08-15',
+      statusDate: '2022-06-13',
+      language: 'EN',
+      description: 'Unregistered'
+    }
+  ],
+  businessIdChanges: []
+}
