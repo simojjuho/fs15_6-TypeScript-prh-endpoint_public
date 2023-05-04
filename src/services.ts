@@ -24,8 +24,8 @@ export const getDetailedEntry = async (id: string) => {
     maxResults: number,
     resultsFrom: number,
     streetAddressPostCode: string ) => {
-        const searchObject = `?totalResults=false&resultsFrom=${resultsFrom}&maxResults=${maxResults}&streetAddressPostCode=${streetAddressPostCode}`
-        const result = await axios.get(`${baseUrl}${searchObject}`)
+        const searchString = `?totalResults=false&resultsFrom=${resultsFrom}&maxResults=${maxResults}&streetAddressPostCode=${streetAddressPostCode}`
+        const result = await axios.get(`${baseUrl}${searchString}`)
         return result.data.results
  }
 
