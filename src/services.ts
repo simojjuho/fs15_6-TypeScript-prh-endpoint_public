@@ -1,8 +1,8 @@
 import axios from 'axios'
-import { BisCompany, BisCompanyDetails } from './types'
+import { BisCompany } from './Types/BisCompany'
+import { BisCompanyDetails } from './Types/BisCompanyDetails'
 
 const baseUrl = 'https://avoindata.prh.fi/bis/v1'
-
 
 /**
  * @param id A Finnish company id
@@ -10,7 +10,7 @@ const baseUrl = 'https://avoindata.prh.fi/bis/v1'
  */
 export const getDetailedEntry = async (id: string) => {
     const { data } = await axios.get(`${baseUrl}/${id}`)
-    return data.results as BisCompanyDetails
+    return data.results
    }
 
 /**
@@ -26,11 +26,11 @@ export const getDetailedEntry = async (id: string) => {
     streetAddressPostCode: string ) => {
         const searchObject = `?totalResults=false&resultsFrom=${resultsFrom}&maxResults=${maxResults}&streetAddressPostCode=${streetAddressPostCode}`
         const result = await axios.get(`${baseUrl}${searchObject}`)
-        return result.data.results as BisCompany[]
+        return result.data.results
  }
 
  export const getListOfDetailedEntries = async () => {
-   const entryList = await getListOfEntries(3, 0, '35300')
+   const entryList: BisCompany[] = await getListOfEntries(3, 0, '35300')
    const businessIds = entryList.map(business => business.businessId)
    return businessIds.map(async id => {
       return await getDetailedEntry(id)
@@ -52,7 +52,6 @@ getListOfDetailedEntries().then(elems => {
    })
 })
 
-
 /* For testing the services with some pre-set parametres:
  const showList = async () => {
     const result = await getListOfEntries(5, 0, '35300')
@@ -66,4 +65,3 @@ getListOfDetailedEntries().then(elems => {
 
  showBusinessInDetail()
  showList() */
-
